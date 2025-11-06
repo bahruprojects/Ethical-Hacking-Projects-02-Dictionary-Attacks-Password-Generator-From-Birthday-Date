@@ -30,14 +30,14 @@ Program ini berguna untuk membuat wordlist/daftar password yang berisi kombinasi
 
 ### 1. Download Script
 
-Simpan kode program dengan nama file, misalnya `generate_dates.py`
+Simpan kode program dengan nama file, misalnya `Dictionary-Attacks-Password-Generator-From-Birthday-Date.py`
 
 ### 2. Jalankan Program
 
 Buka terminal/command prompt di folder tempat file disimpan, lalu jalankan:
 
 ```bash
-python generate_dates.py
+Dictionary-Attacks-Password-Generator-From-Birthday-Date.py
 ```
 
 ### 3. Input Tanggal
